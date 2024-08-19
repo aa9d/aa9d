@@ -1,16 +1,31 @@
-## Hi there 👋
+<div id="id" class="blackbox" >
+    <div class="open">
+        <img class="shadowfilter" src="pic.png" > 
+    </div>
+</div>
 
-<!--
-**aa9d/aa9d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+=====================
+<style>
+.blackbox {
+    background: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 80px;
+    height: 70px;
+    line-height: 60px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    margin: 3px;
+    box-shadow: 0 0 5px #000;
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.shadowfilter{
+  text-align: center;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+</style>
